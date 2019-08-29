@@ -7,9 +7,11 @@ the parking process of the cars.
 
 List of components:
 
-* 1. NodeMCU "Amica" (CP2102 USB to UART Bridge)
-* 2. Arduino Nano (ATMEL328P)
-* 3. Ultrasonic sensor HC-SR04
-* 4. Stepper motor 28BYJ-48 (with breakout board - ULN2003APG IC)
-* 5. Tri-color leds
-* 6. Power supply with an output of 5V-3A
+* NodeMCU "Amica" (CP2102 USB to UART Bridge)
+* Arduino Nano (ATMEL328P)
+* Ultrasonic sensor HC-SR04
+* Stepper motor 28BYJ-48 (with breakout board - ULN2003APG IC)
+* Tri-color leds
+* Power supply with an output of 5V-3A
+
+Future Work: Add a touch display for better visualization of the places in the parking lot.
